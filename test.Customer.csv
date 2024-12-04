@@ -1,0 +1,6 @@
+_id,custid,acc_bal,acc_type
+674ffff15031af8f5f893bf8,1,10000,Saving
+674ffff15031af8f5f893bf9,1,20000,Checking
+674ffff15031af8f5f893bfa,3,50000,Checking
+674ffff15031af8f5f893bfb,4,10000,Saving
+674ffff15031af8f5f893bfc,5,2000,Checking

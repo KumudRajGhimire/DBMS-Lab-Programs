@@ -1,0 +1,6 @@
+_id,name,town,cuisine,score,address.zipcode,address.street
+67500225ba3eadb5d9893bf8,Meghna Foods,Jayanagar,Indian,8,10001,Jayanagar
+67500225ba3eadb5d9893bf9,Empire,MG Road,Indian,7,10100,MG Road
+67500225ba3eadb5d9893bfa,Chinese WOK,Indiranagar,Chinese,12,20000,Indiranagar
+67500225ba3eadb5d9893bfb,Kyotos,Majestic,Japanese,9,10300,Majestic
+67500225ba3eadb5d9893bfc,WOW Momos,Malleshwaram,Indian,5,10400,Malleshwaram
